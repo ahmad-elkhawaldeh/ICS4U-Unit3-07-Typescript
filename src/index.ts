@@ -1,7 +1,7 @@
 /*
 * This program is a vehicle class.
 *
-* @author  Felipe Garcia Affonso
+* @author  Ahmad El-khawaldeh
 * @version 1.0
 * @since   2021-12-25
 */
